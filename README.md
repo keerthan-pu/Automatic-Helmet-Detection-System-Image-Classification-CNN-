@@ -44,4 +44,17 @@ gets true or false byte code from tensor flow  which is used in condition statem
 calculate the penalty .The penalty amount is sent to owner of vehicle involved in the incident 
 or occurred using their number plate. 
 
+# Outcome
+
+Image conversion before training the model
+![image](https://github.com/keerthan-pu/Automatic-Helmet-Detection-System-Image-Classification-CNN-/assets/114256472/626ce450-2820-4439-b6b7-d544fc686e75)
+
+Prediction output
+![image](https://github.com/keerthan-pu/Automatic-Helmet-Detection-System-Image-Classification-CNN-/assets/114256472/36fb67ca-7764-4577-9ce9-3a58f0f2dce6)
+
+
+![image](https://github.com/keerthan-pu/Automatic-Helmet-Detection-System-Image-Classification-CNN-/assets/114256472/1373a8af-c2b8-4ccd-8543-30211ec28f87)
+
+
+
 
